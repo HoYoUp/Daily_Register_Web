@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/*
+ total
+*/
+
+.ex{
+	background-color: red;
+}
+/*
+index.html
+*/
+.lEI {
+	margin-left: 40%;
+}
+.sub{
+	width:100%;
+}
+.ititle{
+	text-align: center;
+    margin-left:15%;
+}
+/*
+user.jsp
+*/
+.lEU {
+	margin-left: 20%;
+}
+.lab {
+	border: 1px solid black;
+	width: 55px;
+	height: 25px;
+	text-align:center;
+}
+.anounce {
+
+}
+/*
+manager.html
+*/
+.lEM {
+	margin-left: 10%;
+}
+.fb{
+	width:100%;
+}
+
+
